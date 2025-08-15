@@ -1,2 +1,2 @@
 @echo off
-matlab -nodisplay -nosplash -nodesktop -r "run('C:\Users\Ludovic\Documents\Eclipse\HPGI\matlab\hpgi.m'); exit;"
+matlab -nodisplay -nosplash -nodesktop -r "run('C:\Users\User\Documents\git\hike-planning-gui\matlab\hike_planning.m'); exit;"
